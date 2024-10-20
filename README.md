@@ -19,8 +19,6 @@
 
 ### Stats:
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baduhai&show_icons=true&locale=en&layout=compact" alt="baduhai" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baduhai&show_icons=true&locale=en" alt="baduhai" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baduhai&show_icons=true&locale=en" alt="baduhai" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baduhai&show_icons=true&locale=en&layout=compact" alt="baduhai" /></p>
 
 
