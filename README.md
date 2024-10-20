@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working **freelance**.
 
-- 🌱 I’m learning **more rust and the SIP protocol**.
-
 - 👯 I’m looking to collaborate on [nixpkgs](https://github.com/NixOS/nixpkgs/).
+
+- 🌱 I’m currenctly learning **more rust and the SIP protocol**.
 
 - 👨‍💻 All of my personal projects are available right here.
 
-- 📝 I regularly write articles on [baduhai.dev](https://baduhai.dev).
+- 📝 I ~~regularly~~ sometimes write articles on [baduhai.dev](https://baduhai.dev).
 
 - 📫 For business inquiries: **baduhai@proton.me**.
 
