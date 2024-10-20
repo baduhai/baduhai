@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working **freelance**.
 
-- 👯 I’m looking to collaborate on [nixpkgs](https://github.com/NixOS/nixpkgs/).
+- 👯 I’m looking to collaborate even more on [nixpkgs](https://github.com/NixOS/nixpkgs/).
 
 - 🌱 I’m currenctly learning **more rust and the SIP protocol**.
 
