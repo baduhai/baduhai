@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <h3 align="center">DevOps Engineer - A little too obsessed with NixOS</h3>
 
-- 🔭 I’m currently work for  **T-Systems**.
+- 🔭 I currently work for  **T-Systems**.
 
 - 👯 I’m looking to collaborate even more on [nixpkgs](https://github.com/NixOS/nixpkgs/).
 
