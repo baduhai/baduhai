@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm William</h1>
-<h3 align="center">A passionate SysAdmin obsessed with NixOS</h3>
+<h3 align="center">DevOps Engineer - A little too obsessed with NixOS</h3>
 
-- 🔭 I’m currently working **freelance**.
+- 🔭 I’m currently work for  **T-Systems**.
 
 - 👯 I’m looking to collaborate even more on [nixpkgs](https://github.com/NixOS/nixpkgs/).
 
-- 🌱 I’m currenctly learning **more rust and the SIP protocol**.
+- 🌱 I’m currenctly learning **rust** and eternally improving my homelab.
 
-- 👨‍💻 All of my personal projects are available right here.
+- 👨‍💻 All of my personal projects are available right here, or at [git.baduhai.dev](https://git.baduhai.dev).
 
-- 📝 I ~~regularly~~ sometimes write articles on [baduhai.dev](https://baduhai.dev).
+- 📝 Comiing soon: [kernelpanic.space](https://kernelpanic.space).
 
 - 📫 For business inquiries: **baduhai@proton.me**.
 
